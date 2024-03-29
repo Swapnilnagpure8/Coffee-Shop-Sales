@@ -1,5 +1,8 @@
 # Coffee Shop Sales Analysis Project
 
+![Coffee Shop Sales Dashboard ](https://github.com/Swapnilnagpure8/Coffee-Shop-Sales/assets/152164973/a645d1e8-4d5d-4aae-bfa2-05ccf84ef837)
+
+
 # Overview
 
 Welcome to the Coffee Shop Sales Analysis project repository! This project involves analyzing sales data from a coffee shop to gain insights into various aspects of its business operations. The analysis was conducted using Microsoft Excel, and the findings are presented in the accompanying files.
